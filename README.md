@@ -21,7 +21,7 @@ This project transforms raw sales data into interactive dashboards that help:
 ---
 
 ## 📂 Dataset
-- **Source:** Superstore Sales Dataset (sample retail dataset)  
+- **Include:** Orders, Customers, Location, Products
 - **Records:** ~10,000 transactions  
 
 ---
